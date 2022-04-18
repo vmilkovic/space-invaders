@@ -1,2 +1,3 @@
-# space-invader
+# space-invaders
+
 Razvoj računalnih igara projekt
